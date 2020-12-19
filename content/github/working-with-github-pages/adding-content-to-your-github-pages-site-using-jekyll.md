@@ -1,4 +1,4 @@
----
+-----
 title: Adding content to your GitHub Pages site using Jekyll
 intro: 'You can add a new page or post to your Jekyll site on {% data variables.product.prodname_pages %}.'
 product: '{% data reusables.gated-features.pages %}'
